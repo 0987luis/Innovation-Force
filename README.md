@@ -54,9 +54,7 @@ The steering is handled by a servo motor, which is connected to the wheels in an
 
   
 Mobility strategy
- * Our robot is completely custom designed, that's why we decided to use a robotics kit where we connect the servo motor with the steering, or 
-   rather we screw it with the wheels as if they were the steering of a remote control car, but better and even better, it has not given us 
-   problems, it is very effective in turning, precise and efficient, which helped us perfectly do the three turns super fast.
+ * Our robot has been custom designed, which led us to opt for a specific robotics kit for its construction. Instead of following a standard design, we decided to integrate a servo motor that connects to the robot's steering. To achieve this, we screwed the servo motor to the wheels, thus emulating the steering system of a remote-controlled car. This approach has not only proven to be more effective, but has also exceeded our expectations in terms of performance. The robot's steering system has proven to be exceptionally reliable, with no issues to date. Its ability to perform turns is precise and efficient, allowing us to execute three consecutive turns extremely quickly and with great precision. This effectiveness in turning has been key to achieving our goals in the design of the robot.
 
 
 * To ensure efficient power supply for our Robotics project, we have implemented a power system with two separate batteries. One of the batteries 
@@ -64,3 +62,13 @@ Mobility strategy
   powering both the motor controller (drive) and the servo motor, optimizing power distribution and ensuring that both components operate 
   efficiently and without interruptions. This configuration guarantees optimal performance in the development of the project. It is worth 
   mentioning that the power is 100/100 effective.
+
+* But before all of this we had certain challenges, our second challenge was that of our two servos we didn't know why they burned out, it was too much voltage, it could be that we tested too much, we spent a whole day programming and that was one of our problems and every time a servo burned out we had to wait 10 days or more for a new servo and we also added a voltmeter to measure the voltages and we avoided this from happening to us.
+
+* Our first challenge was the track. We had no track for a while until a school lent us the track and that was where we got serious about working. But before they lent us that track, we made a homemade track with the exact measurements. Although it wasn't easy with that track, we had to do everything. We couldn't just sit back and do nothing.
+
+* Another challenge that wasn't so difficult, but it was something that saved us time, was the Let screen. Before we had that screen, we had to be connected to the cart to take the measurements of left, right, back and forth. But with the screen, everything was easier. It even made it easy for us so that the cart could make its correct and perfect turns.
+
+* Another somewhat strange challenge when we had the track and started programming was that the car drifted too much and couldn't make the turns well. It slid and crashed. For that, we had to slow down, but it made the turns very slowly. Almost every turn was like a minute and thirty minutes. We couldn't wait that long and what we came up with was putting rubber on the tires and that was the solution to that problem.
+
+  
