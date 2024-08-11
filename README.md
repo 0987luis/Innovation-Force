@@ -71,4 +71,42 @@ Mobility strategy
 
 * Another somewhat strange challenge when we had the track and started programming was that the car drifted too much and couldn't make the turns well. It slid and crashed. For that, we had to slow down, but it made the turns very slowly. Almost every turn was like a minute and thirty minutes. We couldn't wait that long and what we came up with was putting rubber on the tires and that was the solution to that problem.
 
+
+Estrategia
+
+* Estrategia de movimiento del robot: Nuestro sistema de movilidad para el robot es impulsado por un solo motor (ver lista de componentes), el cual conecta nuestras dos ruedas a través de un engrane, para engranar la acción del motor, es decir, para que las dos ruedas traseras tengan tracción, para ver como es la tracción trasera del vehículo puedes ver las fotos del robot o la parte del modelo.
+
+Dirección
+
+La dirección es manejada por un servomotor, el cual está conectado a las ruedas de una manera ingeniosa, ya que el servomotor funciona como un engrane, de manera que al moverse se mueve en forma de arco o curva, de manera que la movilidad de la dirección y al tomar curvas es bastante exacta también al calibrar las direcciones son precisas. Nuestra dirección es sencilla pero a la vez compleja, pero sobre todo ingeniosa y bastante precisa.
+
+-Cámara/Detección de objetos:
+
+* -Cámara/Detección de objetos: Para la segunda ronda, estamos usando una webcam, que es una cámara útil pero no tan rápida como pensábamos para lo que necesitábamos, pero era la
+que podíamos conseguir pero igual es imprescindible para su función mientras íbamos practicando nos íbamos dando cuenta de que era un poco lenta y eso hacía un poco más
+complicada la detección de colores.
+
+Para la primera ronda:
+
+* fue un poco difícil porque teníamos la programación bien si no, a veces el servo nos daba unos cuantos problemas pero después de eso en el código pusimos una variable bool
+que se suma cada vez que se ejecuta la función evade left o right y llega a doce y el coche se detiene si detecta y si tiene una distancia de 80 o 84 seguirá
+pero seguirá parando perfectamente.
+
+Estrategia de movilidad
+* Nuestro robot ha sido diseñado a medida, lo que nos llevó a optar por un kit de robótica específico para su construcción. En lugar de seguir un diseño estándar, decidimos integrar un servomotor que se conecta a la dirección del robot. Para lograrlo, atornillamos el servomotor a las ruedas, emulando así el sistema de dirección de un coche teledirigido. Este enfoque no solo ha demostrado ser más efectivo, sino que también ha superado nuestras expectativas en términos de rendimiento. El sistema de dirección del robot ha demostrado ser excepcionalmente confiable, sin problemas hasta la fecha. Su capacidad para realizar giros es precisa y eficiente, lo que nos permite ejecutar tres giros consecutivos de manera extremadamente rápida y con gran precisión. Esta efectividad en el giro ha sido clave para lograr nuestros objetivos en el diseño del robot.
+
+* Para asegurar un suministro de energía eficiente para nuestro proyecto de Robótica, hemos implementado un sistema de alimentación con dos baterías separadas. Una de las baterías
+está dedicada exclusivamente a alimentar el Arduino, asegurando un suministro de energía estable y sin interferencias. La segunda batería se encarga de
+alimentar tanto el controlador del motor (drive) como el servomotor, optimizando la distribución de energía y asegurando que ambos componentes funcionen
+de manera eficiente y sin interrupciones. Esta configuración garantiza un rendimiento óptimo en el desarrollo del proyecto. Cabe
+mencionar que la alimentación es 100/100 efectiva.
+
+* Pero antes de todo esto teníamos ciertos retos, nuestro segundo reto fue que de nuestros dos servos no sabíamos por qué se quemaban, era demasiado voltaje, podía ser que probamos demasiado, pasamos un día entero programando y ese era uno de nuestros problemas y cada vez que se quemaba un servo teníamos que esperar 10 días o más por un servo nuevo y además agregamos un voltímetro para medir los voltajes y evitamos que esto nos pasara.
+
+* Nuestro primer reto fue la pista. No tuvimos pista por un tiempo hasta que una escuela nos prestó la pista y ahí fue donde nos pusimos serios a trabajar. Pero antes de que nos prestaran esa pista, hicimos una pista casera con las medidas exactas. Aunque no era fácil con esa pista, teníamos que hacer todo. No podíamos quedarnos sentados sin hacer nada.
+
+* Otro reto que no fue tan difícil, pero fue algo que nos ahorró tiempo, fue la pantalla Let. Antes de tener esa pantalla, teníamos que estar conectados al carrito para tomar las medidas de izquierda, derecha, adelante y atrás. Pero con la pantalla todo fue más fácil. Incluso nos facilitó las cosas para que el carro pudiera hacer sus giros correctos y perfectos.
+
+*Otro reto un poco extraño cuando teníamos la pista y empezamos a programar era que el carro derrapaba demasiado y no podía hacer bien los giros. Se deslizaba y chocaba. Para eso teníamos que bajar la velocidad, pero hacía los giros muy lento. Casi cada giro era como de minuto y treinta minutos. No podíamos esperar tanto y lo que se nos ocurrió fue ponerle goma a las llantas y esa fue la solución a ese problema.
+
   
