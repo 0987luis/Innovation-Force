@@ -5,7 +5,7 @@
 
 
 Team members
-* HECTOR GONZALES 
+* HECTOR GONZALEZ 
 * LUIS ESPINOSA
 
 
