@@ -83,9 +83,9 @@ Descripción general de nuestro repositorio en GitHub
 * Diagrama: Contiene el diagrama del circuito, el diagrama de cableado y el diagrama de conducción.
 * Prototipos: Estan Algunos modelos de carros que antes de conseguir el que tenemos intentamos usar.
 * Codigo: los códigos para ambos desafíos, con y sin obstáculos.
-* Fotos_: fotos del equipo y divertidas.
-* 
-* Videos: fotografías de todos los ángulos del robot.
+* Fotos_: fotografías de todos los ángulos del robot.
+* Principio: Es un pequeño diario de lo ocurrido mientras haciamos el proyecto.
+* Videos: Videos del equipo y divertidas.
   
  
 COMPONENTES
