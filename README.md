@@ -105,8 +105,8 @@ mencionar que la alimentación es 100/100 efectiva.
 
 * Nuestro primer reto fue la pista. No tuvimos pista por un tiempo hasta que una escuela nos prestó la pista y ahí fue donde nos pusimos serios a trabajar. Pero antes de que nos prestaran esa pista, hicimos una pista casera con las medidas exactas. Aunque no era fácil con esa pista, teníamos que hacer todo. No podíamos quedarnos sentados sin hacer nada.
 
-* Otro reto que no fue tan difícil, pero fue algo que nos ahorró tiempo, fue la pantalla Let. Antes de tener esa pantalla, teníamos que estar conectados al carrito para tomar las medidas de izquierda, derecha, adelante y atrás. Pero con la pantalla todo fue más fácil. Incluso nos facilitó las cosas para que el carro pudiera hacer sus giros correctos y perfectos.
+* Otro reto que no fue tan difícil, pero fue algo que nos ahorró tiempo, fue la pantalla Led. Antes de tener esa pantalla, teníamos que estar conectados al carrito para tomar las medidas de izquierda, derecha, adelante y atrás. Pero con la pantalla todo fue más fácil. Incluso nos facilitó las cosas para que el carro pudiera hacer sus giros correctos y perfectos.
 
-*Otro reto un poco extraño cuando teníamos la pista y empezamos a programar era que el carro derrapaba demasiado y no podía hacer bien los giros. Se deslizaba y chocaba. Para eso teníamos que bajar la velocidad, pero hacía los giros muy lento. Casi cada giro era como de minuto y treinta minutos. No podíamos esperar tanto y lo que se nos ocurrió fue ponerle goma a las llantas y esa fue la solución a ese problema.
+*Otro reto un poco extraño cuando teníamos la pista y empezamos a programar era que el carro derrapaba demasiado y no podía hacer bien los giros. Se deslizaba y chocaba. Para eso teníamos que bajar la velocidad, pero hacía los giros muy lento. Casi cada giro era como de minuto y treinta segundos. No podíamos esperar tanto y lo que se nos ocurrió fue ponerle goma a las llantas y esa fue la solución a ese problema hasta que llego un punto que dejo de derrapar.
 
   
