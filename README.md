@@ -71,6 +71,8 @@ Mobility strategy
 
 * Another somewhat strange challenge when we had the track and started programming was that the car drifted too much and couldn't make the turns well. It slid and crashed. For that, we had to slow down, but it made the turns very slowly. Almost every turn was like a minute and thirty minutes. We couldn't wait that long and what we came up with was putting rubber on the tires and that was the solution to that problem.
 
+* YouTube Video of Operation: https://youtube.com/shorts/Zm5ZuDQvSgA?si=EHox6JY6_YVE3Qdk
+
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Miembros del equipo
@@ -140,6 +142,8 @@ mencionar que la alimentación es 100/100 efectiva.
 * Otro reto que no fue tan difícil, pero fue algo que nos ahorró tiempo, fue la pantalla Led. Antes de tener esa pantalla, teníamos que estar conectados al carrito para tomar las medidas de izquierda, derecha, adelante y atrás. Pero con la pantalla todo fue más fácil. Incluso nos facilitó las cosas para que el carro pudiera hacer sus giros correctos y perfectos.
 
 *Otro reto un poco extraño cuando teníamos la pista y empezamos a programar era que el carro derrapaba demasiado y no podía hacer bien los giros. Se deslizaba y chocaba. Para eso teníamos que bajar la velocidad, pero hacía los giros muy lento. Casi cada giro era como de minuto y treinta segundos. No podíamos esperar tanto y lo que se nos ocurrió fue ponerle goma a las llantas y esa fue la solución a ese problema hasta que llego un punto que dejo de derrapar.
+
+* Video Del Funcionamiento: https://youtube.com/shorts/Zm5ZuDQvSgA?si=EHox6JY6_YVE3Qdk
 
  Para terminar, queremos disculparnos por no haber tenido más tiempo para publicar algo. Aunque teníamos La documentacion Hace mucho rato no sabiamos que habia que agregarla e enviar el enlace y fue nuestro fallo. Ahora nos explicaron cómo hacerlo bien, y comenzamos a modificarlo. Sin embargo, al momento de hacerlo, se nos quitó el mes en el que lo habíamos subido. Esperamos su comprensión. Muchas gracias.
   
