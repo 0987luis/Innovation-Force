@@ -96,8 +96,8 @@ Estrategia de movilidad
 * Nuestro robot ha sido diseñado a medida, lo que nos llevó a optar por un kit de robótica específico para su construcción. En lugar de seguir un diseño estándar, decidimos integrar un servomotor que se conecta a la dirección del robot. Para lograrlo, atornillamos el servomotor a las ruedas, emulando así el sistema de dirección de un coche teledirigido. Este enfoque no solo ha demostrado ser más efectivo, sino que también ha superado nuestras expectativas en términos de rendimiento. El sistema de dirección del robot ha demostrado ser excepcionalmente confiable, sin problemas hasta la fecha. Su capacidad para realizar giros es precisa y eficiente, lo que nos permite ejecutar tres giros consecutivos de manera extremadamente rápida y con gran precisión. Esta efectividad en el giro ha sido clave para lograr nuestros objetivos en el diseño del robot.
 
 * Para asegurar un suministro de energía eficiente para nuestro proyecto de Robótica, hemos implementado un sistema de alimentación con dos baterías separadas. Una de las baterías
-está dedicada exclusivamente a alimentar el Arduino, asegurando un suministro de energía estable y sin interferencias. La segunda batería se encarga de
-alimentar tanto el controlador del motor (drive) como el servomotor, optimizando la distribución de energía y asegurando que ambos componentes funcionen
+está dedicada a alimentar el Arduino y el servo motor, asegurando un suministro de energía estable y sin interferencias. La segunda batería se encarga de
+alimentar exclusivamente tanto el controlador del motor (drive), optimizando la distribución de energía y asegurando que ambos componentes funcionen
 de manera eficiente y sin interrupciones. Esta configuración garantiza un rendimiento óptimo en el desarrollo del proyecto. Cabe
 mencionar que la alimentación es 100/100 efectiva.
 
