@@ -101,7 +101,7 @@ alimentar exclusivamente tanto el controlador del motor (drive), optimizando la 
 de manera eficiente y sin interrupciones. Esta configuración garantiza un rendimiento óptimo en el desarrollo del proyecto. Cabe
 mencionar que la alimentación es 100/100 efectiva.
 
-* Pero antes de todo esto teníamos ciertos retos, nuestro segundo reto fue que de nuestros dos servos no sabíamos por qué se quemaban, era demasiado voltaje, podía ser que probamos demasiado, pasamos un día entero programando y ese era uno de nuestros problemas y cada vez que se quemaba un servo teníamos que esperar 10 días o más por un servo nuevo y además agregamos un voltímetro para medir los voltajes y evitamos que esto nos pasara.
+* Pero antes de todo esto teníamos ciertos retos, nuestro segundo reto fue que de nuestros primeros dos servos se nos quemaban y nosotros no sabíamos por qué se quemaban, era demasiado voltaje, ademas podía ser que usaramos por demasiadotiempo el servo, pasamos un día entero programando y ese era uno de nuestros problemas y cada vez que se quemaba un servo teníamos que esperar 10 días o más por un servo nuevo y además agregamos un potencimetro para medir el voltajes y evitamos que esto nos pasara.
 
 * Nuestro primer reto fue la pista. No tuvimos pista por un tiempo hasta que una escuela nos prestó la pista y ahí fue donde nos pusimos serios a trabajar. Pero antes de que nos prestaran esa pista, hicimos una pista casera con las medidas exactas. Aunque no era fácil con esa pista, teníamos que hacer todo. No podíamos quedarnos sentados sin hacer nada.
 
