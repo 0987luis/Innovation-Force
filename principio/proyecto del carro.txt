@@ -1,383 +1,57 @@
-# proyecto
-Días 1-14: Búsqueda del Vehículo Base
-Las primeras dos semanas las dedicamos a buscar un carrito de control remoto que sirviera como base para nuestro proyecto. Fue un proceso exhaustivo, ya que queríamos asegurarnos de encontrar un modelo adecuado.
-Mayo a Julio: Fase de Prototipos
-Durante estos meses, trabajamos en varios prototipos. Experimentamos con diferentes configuraciones y componentes, incluyendo uno construido con piezas de Lego. Sin embargo, enfrentamos varios desafíos técnicos, incluyendo problemas con la estructura y el peso de los prototipos.
-17 de Junio: Encontrando el Carro Perfecto
-Nuestro tutor finalmente nos ayudó a encontrar un carro perfecto el 17 de junio. Este vehículo cumplía con todos los requisitos que necesitábamos para el proyecto, lo que nos permitió avanzar de manera significativa.
-Fase de Programación y Desafíos con Servos
-Después de encontrar el carro adecuado, comenzamos a programar el sistema. Sin embargo, enfrentamos problemas con los servos, quemando dos de ellos durante las pruebas iniciales. El primer código que escribimos para controlar el servo resultó en la quema del primer servo. Decidimos no usar el segundo servo en ese momento.
-27 de Junio: Implementación y Programación
-A partir del 27 de junio, comenzamos a integrar todos los componentes y a programar el primer servo nuevamente. Utilizamos pistas caseras para probar y ajustar el sistema. Este proceso nos permitió asegurarnos de que todo funcionara correctamente.
-Imagen del Vehículo Actual
+# proyecto De Innovation Force
 
+17 de mayo: Búsqueda del Vehículo Base
+Las primeras dos semanas las dedicamos a buscar un carrito de control remoto que sirviera como base para nuestro proyecto.
+Fue un proceso Comlicado, ya que queríamos asegurarnos de encontrar un modelo adecuado.
 
+6 De Junio: Encontramos Un Posible candidato 
+Nos dieron un coche que tenía un buen giro, y empezamos a agregarle una plataforma. Este fue nuestro primer prototipo, pero al momento de la verdad tuvimos muchos problemas, como que el eje delantero 
+no tenía la fuerza para mover las llantas, ya que era de motor y con engranajes de los típicos carros. Además, el motor de las llantas traseras tampoco tenía la fuerza para mover el coche.
 
+23 De Junio: Creacion un nuevo Prototipo
+Luego de tener demasiados fallos, decidimos trabajar en un nuevo prototipo. Experimentamos con diferentes configuraciones y componentes. Lo que hicimos fue construir un coche con la base anterior, pero esta vez
+le colocamos un servo, y la parte delantera era de Legos. Sin embargo, al ser demasiado grande, tuvimos que agregarle una madera, y ese fue nuestro error, ya que pesaba demasiado y las llantas no tenían la
+fuerza para mover el coche. Además, la parte delantera del eje se trababa.
 
+2 de Julio: Encontrando el Carro Perfecto
+Nuestro tutor finalmente nos ayudó a encontrar el carro perfecto el 2 de julio. Este vehículo cumplía con todos los requisitos que necesitábamos para el proyecto, lo que nos permitió avanzar de manera
+significativa. Proseguimos a armarlo y a colocarle los componentes.
 
+6 de julio : Encontramos unas Bacterias
+en estos dias, buscamos formas de alimentar la placa y sus componentes sin que pesaran demasiado, ya que las fuentes que teníamos eran muy pesadas. Al buscar en un almacén de mi pueblo, conseguimos
+unas baterías que estaban muy bien, ya que tenían un buen voltaje y una capacidad en mAh adecuada, así que las compramos.
 
+Fase de Programación
 
+7 de Julio: Implementación y Programación
+A partir del 27 de junio, comenzamos a integrar todos los componentes y a programar el primer servo. Utilizamos pistas caseras para probar y ajustar el sistema. Este proceso nos permitió asegurarnos de que todo funcionara correctamente.
 
+14 de Julio: Primer Contra tiempo 
+Hicimos el primer código, y cuando hacíamos pruebas, se nos quemó el servo. Tenemos sospechas de que fue por programarlo durante mucho tiempo y pasarnos de voltaje, pero simplemente lo dejamos pasar.
+Nuestro tutor tenía otro servo y lo utilizamos, pero nos lo trajo después de 5 días.
 
+20 de Julio: empezamos a programar de nuevo
+Terminamos lo que habíamos empezado antes, aunque no nos convencía del todo.
 
+23 de Julio: Interpretacion del codigo
+No nos encantaba nuestro primer programa, ya que fallaba más de lo que funcionaba. Así que empezamos a programar lo mismo, pero por separado. Pensamos en hacer un código
+para cada modalidad, ya sea en sentido antiHorario o en sentido horario
 
+29 de Julio: Segundo Servo:(
+Habíamos hecho el primer código en sentido antihorario, pero cuando íbamos a empezar con el sentido horario, se nos quemó el segundo servo.
 
+1 de agosto: El ultimo servo
+Conseguimos el último servo gracias a un profesor del colegio, pero la competencia estaba cerca. Lo que hicimos fue agregar un potenciómetro para no exceder el voltaje permitido, y eso fue lo que nos funcionó. Enseguida comenzamos a programar el código en sentido horario.
 
+5 de julio: Juntamos el codigo 
+Lo que hicimos a continuación fue juntar los dos códigos y agregarle los pulsadores para que arrancara el segundo código. No se nos complicó, ya que era lo mismo pero con otro ángulo, 
+y así creamos el código final.
 
+6 de julio: Dias Antes de la competncia
+Nuestro tutor estaba un poco ajetreado y se le hizo complicado darnos algunos componentes para la segunda ronda. Aunque ya sabíamos del tema, intentamos hacer una buena segunda ronda.
+Nos dio la tarjeta Raspberry y una cámara web, y empezamos a programarla.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+9 de julio: Dia de la primera competencia
+Este día fue un poco agridulce, como se dice, ya que pudimos obtener los 30 puntos de la primera ronda. Sin embargo, debido a errores y complicaciones, no nos dimos 
+cuenta de que había que subir el documento. Lo hicimos, pero no lo enviamos a tiempo, así que no obtuvimos puntos. A pesar de todo, fue una experiencia muy buena y nos encantó el día.
 
