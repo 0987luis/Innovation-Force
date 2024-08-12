@@ -80,11 +80,11 @@ Miembros del equipo
 
 Descripción general de nuestro repositorio en GitHub
 
-* esquemas: contiene el diagrama del circuito, el diagrama de cableado y el diagrama de conducción.
-* src: los códigos para ambos desafíos, con y sin obstáculos.
+* Diagrama: Contiene el diagrama del circuito, el diagrama de cableado y el diagrama de conducción.
+* Codigo: los códigos para ambos desafíos, con y sin obstáculos.
 * t-photos: fotos del equipo y divertidas.
 * v-photos: fotografías de todos los ángulos del robot.
-* 
+  
  
 COMPONENTES
 * ProtoBoard
