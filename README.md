@@ -71,6 +71,35 @@ Mobility strategy
 
 * Another somewhat strange challenge when we had the track and started programming was that the car drifted too much and couldn't make the turns well. It slid and crashed. For that, we had to slow down, but it made the turns very slowly. Almost every turn was like a minute and thirty minutes. We couldn't wait that long and what we came up with was putting rubber on the tires and that was the solution to that problem.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Miembros del equipo:
+HÉCTOR GONZÁLEZ
+LUIS ESPINOSA
+
+Descripción general de nuestro repositorio en GitHub
+
+* esquemas: contiene el diagrama del circuito, el diagrama de cableado y el diagrama de conducción.
+* src: los códigos para ambos desafíos, con y sin obstáculos.
+* t-photos: fotos del equipo y divertidas.
+* v-photos: fotografías de todos los ángulos del robot.
+* 
+ 
+COMPONENTES
+* ProtoBoard
+* Arduino Uno
+* Controlador L298N
+* Baterías de polímero de 7,4 V
+* Motor de tracción
+* Servomotor MG996R
+* Sensores ultrasónicos (x3)
+* Potenciómetros
+* Pulsadores (x2)
+* Cables Macho-Macho y Macho-Hembra
+* Kit de coche robótico
+* RaspBerry Pi
+* cámara web
+* Batería portátil
 
 Estrategia
 
