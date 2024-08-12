@@ -75,8 +75,8 @@ ________________________________________________________________________________
 
 Miembros del equipo
 
-HÉCTOR GONZÁLEZ
-LUIS ESPINOSA
+* HÉCTOR GONZÁLEZ
+* LUIS ESPINOSA
 
 Descripción general de nuestro repositorio en GitHub
 
