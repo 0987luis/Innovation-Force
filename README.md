@@ -30,6 +30,9 @@ Team members
 * Raspberry Pi
 * Webcam
 * Portable Battery
+* DFROBOT HUSKYLENS SAMRT VISION
+* HILETGO TB6612
+* MARKETFOCUS LIDAR RANGE FINDER 
   
 Strategy
 
@@ -45,12 +48,18 @@ The steering is handled by a servo motor, which is connected to the wheels in an
 * -Camera/Object Detection: For the second round, we are using a webcam, which is a useful camera but not as fast as we thought for what we needed, but it was the one 
   we could get but it is still essential for its function while we were practicing we were realizing that it was a bit slow and that made color detection a bit more 
   complicated.
+  
+  We also now have the MakerFocus Lidar Range Finder that will be integrated into the robotics cart system to improve obstacle detection and environment mapping. This sensor will allow the cart to accurately measure distances using LiDAR technology, facilitating autonomous navigation and real-time collision avoidance. By adding this component, the cart will be able to make safer and more efficient journeys in complex environments.
+
+And the HiLetgo TB6612 Mosfet feature is highly efficient in terms of power consumption, allowing the system to operate optimally without over-taxing the batteries. This also reduces the risk of overheating or damage to the motors, something that has been a challenge with previous servo motors.
 
   For the first round:
 
 * it was a little difficult because we had the programming well if not, sometimes the servo gave us a few problems but after that in the code we put a bool variable 
   that adds up every time the evade left or right function is executed and reaches twelve and the car stops if it detects and if it has a distance of 80 or 84 it will 
   continue but it will still stop perfectly.
+  And now for this national competition we started using a DFROBOT HUSKYLENS SMART VISION which should go even better for us, even though it doesn't pose as many 
+  challenges as the other one.
 
   
 Mobility strategy
@@ -117,8 +126,11 @@ La dirección es manejada por un servomotor, el cual está conectado a las rueda
 -Cámara/Detección de objetos:
 
 * -Cámara/Detección de objetos: Para la segunda ronda, estamos usando una webcam, que es una cámara útil pero no tan rápida como pensábamos para lo que necesitábamos, pero era la
-que podíamos conseguir pero igual es imprescindible para su función mientras íbamos practicando nos íbamos dando cuenta de que era un poco lenta y eso hacía un poco más
-complicada la detección de colores.
+que podíamos conseguir pero igual es imprescindible para su función mientras íbamos practicando nos íbamos dando cuenta de que era un poco lenta y eso hacía un poco    más complicada la detección de colores.Y ahora para esta nacional epezamos a usar una DFROBOT HUSKYLENS SMART VISION que nos debe de ir aun mucho mejor incluso que no se nos ponga tantos retos como la otra 
+
+Tambien tenemos ahora El MakerFocus Lidar Range Finder se integrará al sistema del carro de robótica para mejorar la detección de obstáculos y el mapeo del entorno. Este sensor permitirá al carro medir distancias de manera precisa utilizando la tecnología LiDAR, lo que facilitará la navegación autónoma y la evitación de colisiones en tiempo real. Al agregar este componente, el carro podrá realizar recorridos más seguros y eficientes en entornos complejos.
+
+Y la funcion de El HiLetgo TB6612 Mosfet es altamente eficiente en términos de consumo de energía, lo que permite que el sistema funcione de manera óptima sin sobrecargar las baterías. Esto también reduce el riesgo de sobrecalentamiento o daño a los motores, algo que ha sido un desafío con los servomotores anteriores.
 
 Para la primera ronda:
 
