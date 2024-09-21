@@ -1,6 +1,10 @@
 
 
-![Imagen Frontal](https://github.com/0987luis/Innovation-Force/raw/main/fotos_/imagen%20frontal%20a%20partir%20de%2025%20de%20agosto.jpg)
+# Mi Proyecto
+
+Aquí hay una imagen de mi proyecto:
+
+![Imagen Frontal](fotos_/imagen%20frontal%20a%20partir%20de%2025%20de%20agosto.jpg)
 
 
 
