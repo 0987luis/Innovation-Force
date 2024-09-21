@@ -1,4 +1,5 @@
-(fotos/Imagen%20frontal%20a%20partir%20del%2025%20de%20agosto.jpg)
+![Imagen frontal](fotos/Imagen%20frontal%20a%20partir%20del%2025%20de%20agosto.jpg)
+
 
 
 
