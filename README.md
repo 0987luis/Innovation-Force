@@ -1,4 +1,5 @@
-![Carro actual](fotos_/carro%20actual%20desde%2027%20de%20junio.jpg)
+![Descripción de la imagen](fotos/Imagen%20frontal%20a%20partir%20del%2025%20de%20agosto.jpg)
+
 
 
 
