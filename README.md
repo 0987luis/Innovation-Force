@@ -1,3 +1,8 @@
+# Mi Proyecto
+
+Aquí hay una imagen de mi proyecto:
+
+![Imagen Frontal](fotos_/Imagen%20frontal%20a%20partir%20del%2025%20de%20agosto.jpg)
 
 # Mi Proyecto
 
