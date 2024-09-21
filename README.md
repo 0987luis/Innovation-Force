@@ -1,5 +1,8 @@
 
 
+![Imagen Frontal](https://github.com/0987luis/Innovation-Force/raw/main/fotos_/imagen%20frontal%20a%20partir%20de%2025%20de%20agosto.jpg)
+
+
 
 
 
