@@ -1,8 +1,4 @@
-# Mi Proyecto
 
-Aquí hay una imagen de mi proyecto:
-
-![Imagen Frontal](https://github.com/0987luis/Innovation-Force/raw/main/fotos_/imagen%20frontal.jpg)
 
 
 
