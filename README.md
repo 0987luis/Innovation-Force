@@ -95,7 +95,8 @@ Descripción general de nuestro repositorio en GitHub
 * Prototipos: Estan Algunos modelos de carros que antes de conseguir el que tenemos intentamos usar.
 * Codigo: los códigos para ambos desafíos, con y sin obstáculos.
 * Fotos_: fotografías de todos los ángulos del robot.
-* Principio: Es un pequeño diario de lo ocurrido mientras haciamos el proyecto.
+* Principio: Es un pequeño diario de lo ocurrido 
+mientras haciamos el proyecto.
 * Videos: Videos del equipo y divertidas.
   
  
@@ -114,6 +115,7 @@ COMPONENTES
 * RaspBerry Pi
 * cámara web
 * Batería portátil
+*DFROBOT HUSKYLENS SAMRT VISION
 
 Estrategia
 
