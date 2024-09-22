@@ -37,7 +37,7 @@ Team members
 * Portable Battery
 * DFROBOT HUSKYLENS SAMRT VISION
 * HILETGO TB6612
-* MARKETFOCUS LIDAR RANGE FINDER 
+* 
   
 Strategy
 
@@ -134,10 +134,8 @@ La dirección es manejada por un servomotor, el cual está conectado a las rueda
 
 * -Cámara/Detección de objetos: Para la segunda ronda, estamos usando una webcam, que es una cámara útil pero no tan rápida como pensábamos para lo que necesitábamos, pero era la
 que podíamos conseguir pero igual es imprescindible para su función mientras íbamos practicando nos íbamos dando cuenta de que era un poco lenta y eso hacía un poco    más complicada la detección de colores.Y ahora para esta nacional epezamos a usar una DFROBOT HUSKYLENS SMART VISION que nos debe de ir aun mucho mejor incluso que no se nos ponga tantos retos como la otra 
-
-Tambien tenemos ahora El MakerFocus Lidar Range Finder se integrará al sistema del carro de robótica para mejorar la detección de obstáculos y el mapeo del entorno. Este sensor permitirá al carro medir distancias de manera precisa utilizando la tecnología LiDAR, lo que facilitará la navegación autónoma y la evitación de colisiones en tiempo real. Al agregar este componente, el carro podrá realizar recorridos más seguros y eficientes en entornos complejos.
-
-Y la funcion de El HiLetgo TB6612 Mosfet es altamente eficiente en términos de consumo de energía, lo que permite que el sistema funcione de manera óptima sin sobrecargar las baterías. Esto también reduce el riesgo de sobrecalentamiento o daño a los motores, algo que ha sido un desafío con los servomotores anteriores.
+ 
+Ahora tenemos funcion de El HiLetgo TB6612 Mosfet es altamente eficiente en términos de consumo de energía, lo que permite que el sistema funcione de manera óptima sin sobrecargar las baterías. Esto también reduce el riesgo de sobrecalentamiento o daño a los motores, algo que ha sido un desafío con los servomotores anteriores.
 
 Para la primera ronda:
 
