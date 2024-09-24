@@ -38,7 +38,24 @@ Team members
 * DFROBOT HUSKYLENS SAMRT VISION
 * HILETGO TB6612
 * 
-  
+Energy Management
+In our project, we have implemented a power system that efficiently distributes the supply to all components of the robotic vehicle, ensuring optimal performance during the competition rounds.
+
+Energy source
+We use three batteries in the system:
+
+Two batteries dedicated to the motor driver, connected through a 6V regulator. These batteries provide the necessary power at a higher amperage to ensure that the motors receive sufficient current during complex maneuvers and turns.
+
+An additional battery is dedicated exclusively to powering the Arduino, ensuring that the microcontroller operates stably without interference from current spikes that can occur when the motors are in use.
+
+Power Distribution
+The two batteries for the motors are connected in parallel to a 6V regulator, which allows maintaining a constant voltage and guaranteeing a higher current supply necessary for the motors. This regulator ensures that the system does not suffer voltage drops and the motors maintain constant performance.
+
+The Arduino battery provides a stable voltage directly to the microcontroller, ensuring a clean and constant supply for the execution of the code that controls the sensors, buttons and camera.
+
+Regulation and Monitoring
+The voltage regulation system plays a crucial role in ensuring that both the motors and the microcontroller operate within the correct parameters. The Arduino battery is completely isolated from the motor system, thus avoiding interference or overloads that could affect the performance of the vehicle.
+
 Strategy
 
 * Robot movement strategy: Our mobility system for the robot is driven by a single motor (see component list), which connects our two wheels through a gear, to interlock the action of the motor, that is, so that the two rear wheels have traction, to see what the rear traction of the vehicle is like you can see the photos of the robot or the part of the model.
@@ -122,6 +139,25 @@ COMPONENTES
 * Batería portátil
 *DFROBOT HUSKYLENS SAMRT VISION
 
+Gestión de Energía
+En nuestro proyecto, hemos implementado un sistema de energía que distribuye eficientemente el suministro a todos los componentes del vehículo robótico, garantizando un rendimiento óptimo durante las rondas de competencia.
+
+Fuente de Energía
+Utilizamos tres baterías en el sistema:
+
+Dos baterías dedicadas al driver de los motores, conectadas a través de un regulador de 6V. Estas baterías proporcionan la energía necesaria con un amperaje mayor para asegurar que los motores reciban suficiente corriente durante las maniobras y giros complejos.
+
+Una batería adicional está dedicada exclusivamente a alimentar el Arduino, asegurando que el microcontrolador funcione de manera estable sin interferencias de los picos de corriente que pueden ocurrir cuando los motores están en uso.
+
+Distribución de Energía
+Las dos baterías para los motores están conectadas en paralelo a un regulador de 6V, lo que permite mantener un voltaje constante y garantizar un mayor suministro de corriente necesario para los motores. Este regulador asegura que el sistema no sufra caídas de voltaje y los motores mantengan un rendimiento constante.
+
+La batería del Arduino proporciona un voltaje estable directamente al microcontrolador, asegurando un suministro limpio y constante para la ejecución del código que controla los sensores , pulsadores y la cámara.
+
+Regulación y Monitoreo
+El sistema de regulación de voltaje juega un papel crucial para garantizar que tanto los motores como el microcontrolador operen dentro de los parámetros correctos. La batería del Arduino está completamente aislada del sistema de los motores, evitando así interferencias o sobrecargas que podrían afectar el rendimiento del vehículo.
+
+
 Estrategia
 
 * Estrategia de movimiento del robot: Nuestro sistema de movilidad para el robot es impulsado por un solo motor (ver lista de componentes), el cual conecta nuestras dos ruedas a través de un engrane, para engranar la acción del motor, es decir, para que las dos ruedas traseras tengan tracción, para ver como es la tracción trasera del vehículo puedes ver las fotos del robot o la parte del modelo.
@@ -140,7 +176,7 @@ Ahora tenemos funcion de El HiLetgo TB6612 Mosfet es altamente eficiente en tér
 Para la primera ronda:
 
 * fue un poco difícil porque teníamos la programación bien si no, a veces el servo nos daba unos cuantos problemas pero después de eso en el código pusimos una variable bool
-que se suma cada vez que se ejecuta la función evade left o right y llega a doce y el coche se detiene si detecta y si tiene una distancia de 80 o 84 seguirá
+que se suma cada vez que se ejecuta la función evade left o right y llega a doce y el coche se detiene si detecta y si tiene una distancia de 105 o menos seguirá
 pero seguirá parando perfectamente.
 
 Estrategia de movilidad
